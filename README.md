@@ -1,4 +1,6 @@
-# rmsytnax
+# RMSYNTAX, Moonie
 
-## Information
-**Email: rmsyntaxcontact@gmail.com**
+## Contact & Links
+
+Email: rmsyntaxcontact@gmail.com
+Website: [https://www.rmsyntax.com/](webpage)
